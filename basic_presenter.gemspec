@@ -17,5 +17,5 @@ Gem::Specification.new do |s|
   #s.extra_rdoc_files = [ 'README.md' ]
   s.rdoc_options     = ["--charset=UTF-8"]
   s.require_path     = "lib"
-  s.add_dependency 'activesupport', '>= 3.0'
+  s.add_dependency 'activesupport'
 end
